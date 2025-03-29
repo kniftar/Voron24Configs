@@ -55,7 +55,7 @@ camera_usb_options="-r 640x480 -f 10"
 #
 # Defaults to 10fps
 #
-camera_raspi_options="-x 1280 -y 720 -fps 10"
+camera_raspi_options="-x 640 -y 480 -fps 5"
 
 ### Configuration of camera HTTP output
 #
